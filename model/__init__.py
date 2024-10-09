@@ -1,0 +1,1 @@
+from .model_interface_maskgit import MInterfaceMaskGIT
